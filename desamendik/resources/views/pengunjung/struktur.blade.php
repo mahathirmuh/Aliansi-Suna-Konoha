@@ -3,7 +3,7 @@
 
 
   <div class="container" style="width: 90%;">
-    <div class="kegiatan">
+    <div class="struktur">
       <div class="box">
         <div class="header-kegiatanlain">
           <div class="box-header">
