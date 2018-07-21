@@ -23,3 +23,7 @@ Route::get('/admin/home', function(){
 Route::get('/', 'PengunjungController@index');
 Route::get('/kegiatan-desa', 'PengunjungController@kegiatan');
 Route::get('/struktur-organisasi', 'PengunjungController@struktur');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
