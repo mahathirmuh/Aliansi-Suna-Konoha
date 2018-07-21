@@ -12,7 +12,6 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="{{ asset('css/main.css') }}">
         <link rel="icon" href="{{asset('img/favicon-16x16.png')}}">
-        <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Pacifico|Poppins:400,700'>
 
         <!-- Styles -->
     </head>
@@ -64,7 +63,5 @@
         <!-- End of Footer -->
         <script src="{{ asset('asset/js/jquery.js') }}"></script>
         <script src="{{ asset('asset/js/bootstrap.min.js') }}" charset="utf-8"></script>
-        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script> -->
-        <!-- <script  src="struktur/index.js"></script> -->
     </body>
 </html>

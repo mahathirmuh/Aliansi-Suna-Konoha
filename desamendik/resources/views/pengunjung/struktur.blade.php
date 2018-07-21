@@ -1,6 +1,5 @@
 @extends('master')
 @section('content')
-
   <div class="container" style="width: 90%;">
     <div class="struktur">
       <div class="box">
@@ -37,7 +36,11 @@
                   </div>
                 </div>
               </div>
+
+
               </figure>
+
+
               <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
               <script  src="js/struktur.js"></script>
               <!-- <div class="col-xs-4 col-lg-2">
